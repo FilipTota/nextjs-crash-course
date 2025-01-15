@@ -3,6 +3,7 @@
 // code example bellow: we moved button to new file to define it on the client side
 import React from "react";
 import AddToCart from "./AddToCart";
+// import styles from "./ProductCard.module.css";
 
 // server components cannot have interactivity
 // they cannot handle browser events like click, change...
